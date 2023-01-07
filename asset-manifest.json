@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/odysee-cl/static/css/main.7064deb2.css",
+    "main.js": "/odysee-cl/static/js/main.fce67840.js",
+    "index.html": "/odysee-cl/index.html",
+    "main.7064deb2.css.map": "/odysee-cl/static/css/main.7064deb2.css.map",
+    "main.fce67840.js.map": "/odysee-cl/static/js/main.fce67840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.fce67840.js"
+  ]
+}
