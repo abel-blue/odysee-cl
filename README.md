@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnavox_Odyssey_Logo.svg/600px-Magnavox_Odyssey_Logo.svg.png" alt="odysee-clone" width="500" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnavox_Odyssey_Logo.svg/600px-Magnavox_Odyssey_Logo.svg.png" alt="odysee-clone" width="450" height="80">
   </a>
 
   <h2 align="center">Odysee-Clone</h2>
