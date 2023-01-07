@@ -6,15 +6,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnavox_Odyssey_Logo.svg/600px-Magnavox_Odyssey_Logo.svg.png" alt="odysee-clone" width="100">
   </a>
 
-  <h2 align="center">Odysee-Cl</h2>
+  <h2 align="center">Odysee-Clone</h2>
 
   <h4 align="center">  
     <br />
     <a href="#" target="_blank">View Live</a>
   </h4>
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -34,27 +32,16 @@
 
 ### Clone-Locally
 
-- Enter this url: [https://github.com/abel-blue/yt-clone](https://github.com/abel-blue/yt-clone) in your web browser.
-- npm i -g npm-check-updates
-- ncu -u
-- npm install
+- `git clone https://github.com/abel-blue/yt-clone`
+- `npm i -g npm-check-updates`
+- `ncu -u`
+- `npm install`
 
 ### Prerequisites
 * npm
   ```sh
   npm install npm@latest -g
   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
