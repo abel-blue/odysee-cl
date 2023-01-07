@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnavox_Odyssey_Logo.svg/600px-Magnavox_Odyssey_Logo.svg.png" alt="odysee-clone" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnavox_Odyssey_Logo.svg/600px-Magnavox_Odyssey_Logo.svg.png" alt="odysee-clone" width="100" height="70">
   </a>
 
   <h2 align="center">Odysee-Clone</h2>
@@ -32,7 +32,7 @@
 
 ### Clone-Locally
 
-- `git clone https://github.com/abel-blue/yt-clone`
+- `git clone https://github.com/abel-blue/yt-clone.git`
 - `npm i -g npm-check-updates`
 - `ncu -u`
 - `npm install`
