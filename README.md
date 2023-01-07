@@ -7,11 +7,7 @@
   </a>
 
   <h2 align="center">Odysee-Clone</h2>
-
-  <h4 align="center">  
-    <br />
-    <a href="#" target="_blank">View Live</a>
-  </h4>
+  
 </div>
 
 ### Built With
