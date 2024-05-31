@@ -1,13 +1,42 @@
 {
   "files": {
     "main.css": "/odysee-cl/static/css/main.7064deb2.css",
-    "main.js": "/odysee-cl/static/js/main.fce67840.js",
+    "main.js": "/odysee-cl/static/js/main.b9bf5c7f.js",
+    "reactPlayerYouTube.js": "/odysee-cl/static/js/reactPlayerYouTube.bdbf275c.chunk.js",
+    "reactPlayerSoundCloud.js": "/odysee-cl/static/js/reactPlayerSoundCloud.9f7c8df6.chunk.js",
+    "reactPlayerVimeo.js": "/odysee-cl/static/js/reactPlayerVimeo.c2623863.chunk.js",
+    "reactPlayerMux.js": "/odysee-cl/static/js/reactPlayerMux.2ab219d0.chunk.js",
+    "reactPlayerFacebook.js": "/odysee-cl/static/js/reactPlayerFacebook.86a1dcb0.chunk.js",
+    "reactPlayerStreamable.js": "/odysee-cl/static/js/reactPlayerStreamable.f4fcc7ee.chunk.js",
+    "reactPlayerWistia.js": "/odysee-cl/static/js/reactPlayerWistia.5bd4a88b.chunk.js",
+    "reactPlayerTwitch.js": "/odysee-cl/static/js/reactPlayerTwitch.0f3de3cb.chunk.js",
+    "reactPlayerDailyMotion.js": "/odysee-cl/static/js/reactPlayerDailyMotion.dbd88d07.chunk.js",
+    "reactPlayerMixcloud.js": "/odysee-cl/static/js/reactPlayerMixcloud.0fb3b0fd.chunk.js",
+    "reactPlayerVidyard.js": "/odysee-cl/static/js/reactPlayerVidyard.0d598b30.chunk.js",
+    "reactPlayerKaltura.js": "/odysee-cl/static/js/reactPlayerKaltura.2c732f20.chunk.js",
+    "reactPlayerFilePlayer.js": "/odysee-cl/static/js/reactPlayerFilePlayer.742ffe56.chunk.js",
+    "reactPlayerPreview.js": "/odysee-cl/static/js/reactPlayerPreview.a5847aac.chunk.js",
+    "static/media/axios.cjs": "/odysee-cl/static/media/axios.1f7255275b92c9a866ee.cjs",
     "index.html": "/odysee-cl/index.html",
     "main.7064deb2.css.map": "/odysee-cl/static/css/main.7064deb2.css.map",
-    "main.fce67840.js.map": "/odysee-cl/static/js/main.fce67840.js.map"
+    "main.b9bf5c7f.js.map": "/odysee-cl/static/js/main.b9bf5c7f.js.map",
+    "reactPlayerYouTube.bdbf275c.chunk.js.map": "/odysee-cl/static/js/reactPlayerYouTube.bdbf275c.chunk.js.map",
+    "reactPlayerSoundCloud.9f7c8df6.chunk.js.map": "/odysee-cl/static/js/reactPlayerSoundCloud.9f7c8df6.chunk.js.map",
+    "reactPlayerVimeo.c2623863.chunk.js.map": "/odysee-cl/static/js/reactPlayerVimeo.c2623863.chunk.js.map",
+    "reactPlayerMux.2ab219d0.chunk.js.map": "/odysee-cl/static/js/reactPlayerMux.2ab219d0.chunk.js.map",
+    "reactPlayerFacebook.86a1dcb0.chunk.js.map": "/odysee-cl/static/js/reactPlayerFacebook.86a1dcb0.chunk.js.map",
+    "reactPlayerStreamable.f4fcc7ee.chunk.js.map": "/odysee-cl/static/js/reactPlayerStreamable.f4fcc7ee.chunk.js.map",
+    "reactPlayerWistia.5bd4a88b.chunk.js.map": "/odysee-cl/static/js/reactPlayerWistia.5bd4a88b.chunk.js.map",
+    "reactPlayerTwitch.0f3de3cb.chunk.js.map": "/odysee-cl/static/js/reactPlayerTwitch.0f3de3cb.chunk.js.map",
+    "reactPlayerDailyMotion.dbd88d07.chunk.js.map": "/odysee-cl/static/js/reactPlayerDailyMotion.dbd88d07.chunk.js.map",
+    "reactPlayerMixcloud.0fb3b0fd.chunk.js.map": "/odysee-cl/static/js/reactPlayerMixcloud.0fb3b0fd.chunk.js.map",
+    "reactPlayerVidyard.0d598b30.chunk.js.map": "/odysee-cl/static/js/reactPlayerVidyard.0d598b30.chunk.js.map",
+    "reactPlayerKaltura.2c732f20.chunk.js.map": "/odysee-cl/static/js/reactPlayerKaltura.2c732f20.chunk.js.map",
+    "reactPlayerFilePlayer.742ffe56.chunk.js.map": "/odysee-cl/static/js/reactPlayerFilePlayer.742ffe56.chunk.js.map",
+    "reactPlayerPreview.a5847aac.chunk.js.map": "/odysee-cl/static/js/reactPlayerPreview.a5847aac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.fce67840.js"
+    "static/js/main.b9bf5c7f.js"
   ]
 }
